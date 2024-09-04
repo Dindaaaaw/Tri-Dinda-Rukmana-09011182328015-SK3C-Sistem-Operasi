@@ -61,14 +61,16 @@ Ubuntu adalah salah satu distribusi Linux yang berbasis pada Debian dan disebark
 ## BAB 3: ANALISA
 
 1. **Buatlah laporan proses instalasi di komputer mahasiswa dan tampilkan screenshotnya.**  
-   **Jawab:**  
+   **Jawab:**
+![Alt Text](https://github.com/Dindaaaaw/Tri-Dinda-Rukmana-09011182328015-SK3C-Sistem-Operasi/blob/main/gallery/WhatsApp%20Image%202024-09-04%20at%2014.40.43_55a95767.jpg)
+
    Gambar di atas menyatakan bahwa telah selesai menginstall Linux.
 
-2. **Analisislah pada gambar kenapa saat instalasi perlu dipilih “/” pada opsi Mount Point?**  
+3. **Analisislah pada gambar kenapa saat instalasi perlu dipilih “/” pada opsi Mount Point?**  
    **Jawab:**  
    Karena partisi root ("/") merupakan hirarki tertinggi dari sistem direktori Linux di mana direktori ini membawahi direktori /usr, /home, /mnt, dan direktori lainnya. Ketika memilih "Mount Point" sebagai "/", artinya partisi tersebut akan digunakan sebagai root directory, yang merupakan titik awal dari seluruh sistem file pada Linux. Partisi ini mutlak harus ada di dalam sistem Linux seperti halnya Drive C: pada Windows. Sehingga jika saat pembagian partisi tidak ada root ("/") maka sistem Linux tidak bisa berjalan.
 
-3. **Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32, btrfs!**
+4. **Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32, btrfs!**
 
    **Jawab:**
    - **ext4**: Ext4 dirilis secara komplit dan stabil berawal dari kernel 2.6.28, jadi apabila distro Anda secara default memiliki versi kernel tersebut atau di atasnya, otomatis sistem Anda sudah support ext4 (dengan catatan sudah di-include ke dalam kernelnya). Selain itu, versi e2fsprogs harus menggunakan versi 1.41.5 atau lebih. Keuntungan yang bisa didapat dengan mengupgrade filesystem ke ext4 dibanding ext3 adalah mempunyai pengalamatan 48-bit block yang artinya dia akan mempunyai 1EB = 1,048,576 TB ukuran maksimum filesystem dengan 16 TB untuk maksimum file size-nya, fast fsck, journal checksumming, dan defragmentation support. 
