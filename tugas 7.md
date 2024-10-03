@@ -30,4 +30,5 @@ Lalu mencoba connect ke server pribadi
 
 dan mencoba connect ke server teman
 
+![server teman](https://github.com/user-attachments/assets/806537d9-b24a-4c0f-a91a-a3dae8de79c0)
 
