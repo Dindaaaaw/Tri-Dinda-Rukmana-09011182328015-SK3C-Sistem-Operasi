@@ -1,80 +1,80 @@
-1. ![Alt Text] (![Screenshot_2024-09-04_21-04-42](https://github.com/user-attachments/assets/2f3d21c7-2ead-4e91-9e1d-b2aec3e4dd90)
+1. (![Screenshot_2024-09-04_21-04-42](https://github.com/user-attachments/assets/2f3d21c7-2ead-4e91-9e1d-b2aec3e4dd90)
 
 berfungsi  sebagai perintah yang paling sering digunakan di Linux untuk membuat daftar direktori
 
-2. ![Alt Text] (![Screenshot_2024-09-04_21-15-09](https://github.com/user-attachments/assets/a9568017-6833-44c3-ae18-11c6e1621a09)
+2. (![Screenshot_2024-09-04_21-15-09](https://github.com/user-attachments/assets/a9568017-6833-44c3-ae18-11c6e1621a09)
 
 berfungsi sebagai untuk mencetak direktori kerja di Linux 
 
-3. ![Alt Text] (![Screenshot_2024-09-04_21-18-27](https://github.com/user-attachments/assets/acb67522-c6ba-42bf-9255-74c9017d6312)
+3. (![Screenshot_2024-09-04_21-18-27](https://github.com/user-attachments/assets/acb67522-c6ba-42bf-9255-74c9017d6312)
 
 berfungsi sebagai untuk menavigasi direktori
 
-4. ![Alt Text] (![Screenshot_2024-09-04_21-18-47](https://github.com/user-attachments/assets/e6ccb580-2e5e-4283-9fb3-49469104c7ac)
+4. (![Screenshot_2024-09-04_21-18-47](https://github.com/user-attachments/assets/e6ccb580-2e5e-4283-9fb3-49469104c7ac)
 
 befungsi sebagai perintah yang digunakan untuk membuat direktori di Linux
 
-5. ![Alt Text] (![Screenshot_2024-09-04_21-19-11](https://github.com/user-attachments/assets/8f964201-9c34-4f55-a964-da228f903f5b)
+5. (![Screenshot_2024-09-04_21-19-11](https://github.com/user-attachments/assets/8f964201-9c34-4f55-a964-da228f903f5b)
 
 berfungsi sebagai memindahkan atau mengganti nama file di Linux
 
-6. ![Alt Text] (![Screenshot_2024-09-04_21-19-50](https://github.com/user-attachments/assets/bc095203-61b5-4b3b-9b54-cbc7ba2de961)
+6. (![Screenshot_2024-09-04_21-19-50](https://github.com/user-attachments/assets/bc095203-61b5-4b3b-9b54-cbc7ba2de961)
 
 berfungsi sebagai menyalin file di Linux
 
-7. ![Alt Text] (![Screenshot_2024-09-04_21-20-14](https://github.com/user-attachments/assets/b868fc49-79da-43c2-8b9b-049b78b4bd7f)
+7. (![Screenshot_2024-09-04_21-20-14](https://github.com/user-attachments/assets/b868fc49-79da-43c2-8b9b-049b78b4bd7f)
 
 berfungsi sebagai hapus file atau direktori
 
-8. ![Alt Text] (![Screenshot_2024-09-04_21-20-34](https://github.com/user-attachments/assets/7a24772b-e95d-402f-9d40-20c2480e8073)
+8. (![Screenshot_2024-09-04_21-20-34](https://github.com/user-attachments/assets/7a24772b-e95d-402f-9d40-20c2480e8073)
 
 berfungsi sebagai buat file kosong
 
-9. ![Alt Text] (![Screenshot_2024-09-04_21-20-50](https://github.com/user-attachments/assets/24819935-f025-426d-b6d9-e3a539d45136)
+9. (![Screenshot_2024-09-04_21-20-50](https://github.com/user-attachments/assets/24819935-f025-426d-b6d9-e3a539d45136)
 
 berfungsi sebagai membuat tautan simbolik ke file lain
 
-10.![Alt Text] (![Screenshot_2024-09-04_21-21-17](https://github.com/user-attachments/assets/fbedbec1-629b-49c8-83ba-00959092dd0b)
+10. (![Screenshot_2024-09-04_21-21-17](https://github.com/user-attachments/assets/fbedbec1-629b-49c8-83ba-00959092dd0b)
 
 berfungsi sebagai bersihkan tampilan terminal
 
-11. ![Alt Text] (![Screenshot_2024-09-04_21-23-32](https://github.com/user-attachments/assets/33a6d117-d4c8-439a-9d8a-bc3f27f92560)
+11. (![Screenshot_2024-09-04_21-23-32](https://github.com/user-attachments/assets/33a6d117-d4c8-439a-9d8a-bc3f27f92560)
 
 berfungsi sebagai menampilkan isi file di terminal
 
-12. ![Alt Text] (![Screenshot_2024-09-04_21-23-55](https://github.com/user-attachments/assets/59f2c1d2-fe82-414d-a4f4-fd659631b1e0)
+12. (![Screenshot_2024-09-04_21-23-55](https://github.com/user-attachments/assets/59f2c1d2-fe82-414d-a4f4-fd659631b1e0)
 
 berfungsi sebagai cetak teks apa pun yang mengikuti perintah
 
-13. ![Alt Text] (![Screenshot_2024-09-04_21-24-13](https://github.com/user-attachments/assets/4d87e0fe-a047-4fa4-94c8-7547884aec44)
+13. (![Screenshot_2024-09-04_21-24-13](https://github.com/user-attachments/assets/4d87e0fe-a047-4fa4-94c8-7547884aec44)
 
 berfungsi sebagai untuk menampillkan output halaman di teriminal 
 
-14. ![Alt Text] (![Screenshot_2024-09-04_21-24-30](https://github.com/user-attachments/assets/1b253591-7b34-4150-9fef-73823d77cec7)
+14. (![Screenshot_2024-09-04_21-24-30](https://github.com/user-attachments/assets/1b253591-7b34-4150-9fef-73823d77cec7)
 
 berfungsi sebagai akses halaman manual untuk semua perintah linux 
 
-15. ![Alt Text] (![Screenshot_2024-09-04_21-24-49](https://github.com/user-attachments/assets/ce3773e8-b763-4599-b626-97e5fb24480c)
+15. (![Screenshot_2024-09-04_21-24-49](https://github.com/user-attachments/assets/ce3773e8-b763-4599-b626-97e5fb24480c)
 
 berfungsi sebagai untuk mendapatkan informasi dasar tentang OS
 
-16. ![Alt Text] (![Screenshot_2024-09-04_21-37-35](https://github.com/user-attachments/assets/092376eb-0610-420a-ac34-461cd6b2b65e)
+16. (![Screenshot_2024-09-04_21-37-35](https://github.com/user-attachments/assets/092376eb-0610-420a-ac34-461cd6b2b65e)
 
 berfungsi sebagai mendapatkan nama pemgguna yang aktif
 
-17. ![Alt Text] (![Screenshot_2024-09-04_21-37-55](https://github.com/user-attachments/assets/b93b51e5-135c-4a40-bdeb-4f091752639a)
+17. (![Screenshot_2024-09-04_21-37-55](https://github.com/user-attachments/assets/b93b51e5-135c-4a40-bdeb-4f091752639a)
 
 berfungsi sebagai untuk mengekstrak dak mengkompres file
 
-18. ![Alt Text] (![Screenshot_2024-09-04_21-38-12](https://github.com/user-attachments/assets/1e36cb73-c08e-4dbe-9e24-67cb7eccc760)
+18. (![Screenshot_2024-09-04_21-38-12](https://github.com/user-attachments/assets/1e36cb73-c08e-4dbe-9e24-67cb7eccc760)
 
 berfungsi sebagai menacari string dalam output
 
-19. ![Alt Text] (![Screenshot_2024-09-04_21-38-30](https://github.com/user-attachments/assets/05a84c2f-5417-407e-a6fc-dde7fb52840e)
+19. (![Screenshot_2024-09-04_21-38-30](https://github.com/user-attachments/assets/05a84c2f-5417-407e-a6fc-dde7fb52840e)
 
 berfungsi sebagai mengembalikan jumlah baris yang ditentukan dari atas
 
-20.![Alt Text] (![Screenshot_2024-09-04_21-38-46](https://github.com/user-attachments/assets/48c637d6-4291-4fcd-b280-5fb02bc83a57)
+20. (![Screenshot_2024-09-04_21-38-46](https://github.com/user-attachments/assets/48c637d6-4291-4fcd-b280-5fb02bc83a57)
 
 berfungsi sebagai mengembalikan jumlah baris yang di tentukan dari bawah 
 
